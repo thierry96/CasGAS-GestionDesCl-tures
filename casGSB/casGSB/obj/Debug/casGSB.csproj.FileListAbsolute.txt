@@ -1,0 +1,23 @@
+C:\Users\XXXX\AppData\Local\Temporary Projects\casGSB\bin\Debug\casGSB.exe.config
+C:\Users\XXXX\AppData\Local\Temporary Projects\casGSB\bin\Debug\casGSB.exe
+C:\Users\XXXX\AppData\Local\Temporary Projects\casGSB\bin\Debug\casGSB.pdb
+C:\Users\XXXX\AppData\Local\Temporary Projects\casGSB\obj\Debug\casGSB.csprojResolveAssemblyReference.cache
+C:\Users\XXXX\AppData\Local\Temporary Projects\casGSB\obj\Debug\casGSB.Form1.resources
+C:\Users\XXXX\AppData\Local\Temporary Projects\casGSB\obj\Debug\casGSB.Properties.Resources.resources
+C:\Users\XXXX\AppData\Local\Temporary Projects\casGSB\obj\Debug\casGSB.csproj.GenerateResource.Cache
+C:\Users\XXXX\AppData\Local\Temporary Projects\casGSB\obj\Debug\casGSB.exe
+C:\Users\XXXX\AppData\Local\Temporary Projects\casGSB\obj\Debug\casGSB.pdb
+C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\bin\Debug\casGSB.exe.config
+C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\bin\Debug\casGSB.exe
+C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\bin\Debug\casGSB.pdb
+C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\bin\Debug\MySql.Data.dll
+C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\bin\Debug\MySql.Data.Entity.dll
+C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\bin\Debug\MySql.Web.dll
+C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\bin\Debug\nunit.framework.dll
+C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\bin\Debug\nunit.framework.xml
+C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\obj\Debug\casGSB.Form1.resources
+C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\obj\Debug\casGSB.Properties.Resources.resources
+C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\obj\Debug\casGSB.csproj.GenerateResource.Cache
+C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\obj\Debug\casGSB.exe
+C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\obj\Debug\casGSB.pdb
+C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\bin\Debug\casGSB.XML
