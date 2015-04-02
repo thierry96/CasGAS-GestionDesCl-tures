@@ -21,3 +21,4 @@ C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\ob
 C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\obj\Debug\casGSB.exe
 C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\obj\Debug\casGSB.pdb
 C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\bin\Debug\casGSB.XML
+C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\obj\Debug\casGSB.csprojResolveAssemblyReference.cache

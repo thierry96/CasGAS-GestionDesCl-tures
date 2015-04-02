@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>casGSB</name>
+    </assembly>
+    <members>
+        <member name="T:casGSB.ConnexionBD">
+            <summary>
+            Class ConnexionBD.
+            </summary>
+        </member>
+        <member name="M:casGSB.ConnexionBD.initConnexion">
+            <summary>
+            Initialise la connexion à la base de données
+            </summary>
+        </member>
+        <member name="M:casGSB.ConnexionBD.#ctor">
+            <summary>
+            Constructeur de la classe ConnexionBD
+            </summary>
+        </member>
+        <member name="M:casGSB.ConnexionBD.reqAdmin(System.String)">
+            <summary>
+            Cette fonction permet de faire des requêtes d'administration vers la base de données.
+            </summary>
+            <param name="req">Contiendra la requête sql qui sera utilisé.</param>
+        </member>
+        <member name="M:casGSB.ConnexionBD.ReqSelect(System.String)">
+            <summary>
+            Cette fonction permet de faire des requêtes d'interrogations vers la base de données
+            </summary>
+            <param name="req">Contiendra la requête sql qui sera utilisé.</param>
+            <returns>MySqlDataReader.</returns>
+        </member>
+        <member name="T:casGSB.DateGsb">
+            <summary>
+            Class DateGsb.
+            </summary>
+        </member>
+        <member name="M:casGSB.DateGsb.opDate(System.DateTime,System.Int32)">
+            <summary>
+            Cette fonction permet de faire des opérations sur la date passée en paramètre
+            Elle retourne le mois sous forme de deux chiffres
+            </summary>
+            <param name="tme">l'heure au format dateTime</param>
+            <param name="value">La valeur.</param>
+            <returns>mois.</returns>
+        </member>
+        <member name="M:casGSB.DateGsb.getMoisPrecedent">
+            <summary>
+            Gets the mois precedent.
+            Cette fonction retourne sous forme de 2 chiffres
+            le numéro du mois précédent par rapport à la date actuelle
+            </summary>
+            <returns>String.</returns>
+        </member>
+        <member name="M:casGSB.DateGsb.getMoisPrecedent(System.DateTime)">
+            
+            @param DateTime tme
+            @return mois
+            <summary>
+            Gets the mois precedent.
+            Cette fonction est une surcharge de la fonction getMoisPrecedent()
+            Elle retourne  sous forme de 2 chiffres
+            le numéro du mois précédent en fonction de la date passeé en paramètre
+            </summary>
+            <param name="tme">The tme.</param>
+            <returns>String.</returns>
+        </member>
+        <member name="M:casGSB.DateGsb.getYear(System.DateTime)">
+            <summary>
+            Cette fonction permet d'obtenir le numéro de l'année qui correspond au mois passé
+            Gets the year.
+            </summary>
+            <param name="tme">L'heure.</param>
+            <returns>year.</returns>
+        </member>
+        <member name="M:casGSB.DateGsb.getMoisSuivant">
+            <summary>
+            Gets the mois suivant.
+            Cette fonction retourne le mois suivant sous forme de 2 chiffres
+            par rapport au mois actuel
+            </summary>
+            <returns>String.</returns>
+        </member>
+        <member name="M:casGSB.DateGsb.getMoisSuivant(System.DateTime)">
+            <summary>
+            Gets the mois suivant.
+            Cette fonction est une surcharge de la fonction getMoisSuivant()
+            Elle retourne le mois suivant sous forme de 2 chiffres par rapport au mois passé en paramètre
+            </summary>
+            <param name="tme">The tme.</param>
+            <returns>String.</returns>
+        </member>
+        <member name="M:casGSB.DateGsb.entre(System.Int32,System.Int32)">
+            <summary>
+            Cette fonction retourne vrai si le numéro du jour actuel est comprise entre
+            le numéro des deux jours passé en paramètre
+            </summary>
+            <param name="j1">Premier jour.</param>
+            <param name="j2">Deuxième jour.</param>
+            <returns>Boolean.</returns>
+        </member>
+        <member name="M:casGSB.DateGsb.entre(System.Int32,System.Int32,System.DateTime)">
+            <summary>
+            Entres the specified j1.
+            Cette fonction est une surcharge de la fonction entre()
+            Elle retourne vrai si le numéro du jour de la date passé en paramètre est compris entre
+            les deux valeurs passé en paramètre
+            </summary>
+            <param name="j1">The j1.</param>
+            <param name="j2">The j2.</param>
+            <param name="tme">The tme.</param>
+            <returns>Boolean.</returns>
+        </member>
+        <member name="F:casGSB.Form1.components">
+            <summary>
+            Variable nécessaire au concepteur.
+            </summary>
+        </member>
+        <member name="M:casGSB.Form1.Dispose(System.Boolean)">
+            <summary>
+            Nettoyage des ressources utilisées.
+            </summary>
+            <param name="disposing">true si les ressources managées doivent être supprimées ; sinon, false.</param>
+        </member>
+        <member name="M:casGSB.Form1.InitializeComponent">
+            <summary>
+            Méthode requise pour la prise en charge du concepteur - ne modifiez pas
+            le contenu de cette méthode avec l'éditeur de code.
+            </summary>
+        </member>
+        <member name="M:casGSB.Program.Main">
+            <summary>
+            Point d'entrée principal de l'application.
+            </summary>
+        </member>
+        <member name="T:casGSB.Properties.Resources">
+            <summary>
+              Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+            </summary>
+        </member>
+        <member name="P:casGSB.Properties.Resources.ResourceManager">
+            <summary>
+              Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+            </summary>
+        </member>
+        <member name="P:casGSB.Properties.Resources.Culture">
+            <summary>
+              Remplace la propriété CurrentUICulture du thread actuel pour toutes
+              les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+            </summary>
+        </member>
+    </members>
+</doc>
