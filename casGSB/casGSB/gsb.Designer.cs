@@ -1,6 +1,6 @@
 ﻿namespace casGSB
 {
-    partial class Form1
+    partial class gsb
     {
         /// <summary>
         /// Variable nécessaire au concepteur.
@@ -29,23 +29,24 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            this.timAction = new System.Windows.Forms.Timer(this.components);
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(gsb));
+            this.timAct = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
-            // timAction
+            // timAct
             // 
-            this.timAction.Enabled = true;
-            this.timAction.Interval = 10000;
-            this.timAction.Tick += new System.EventHandler(this.timAction_Tick);
+            this.timAct.Enabled = true;
+            this.timAct.Interval = 10000;
+            this.timAct.Tick += new System.EventHandler(this.timAct_Tick);
             // 
-            // Form1
+            // gsb
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(397, 262);
-            this.Name = "Form1";
-            this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.ClientSize = new System.Drawing.Size(355, 173);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Name = "gsb";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Gestion de clôture GSB";
+            this.Load += new System.EventHandler(this.gsb_Load);
             this.ResumeLayout(false);
 
         }
@@ -53,6 +54,7 @@
         #endregion
 
         private System.Windows.Forms.Timer timAction;
+        private System.Windows.Forms.Timer timAct;
     }
 }
 

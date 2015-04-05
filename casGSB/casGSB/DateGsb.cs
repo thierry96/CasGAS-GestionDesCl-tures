@@ -17,14 +17,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-/// <summary>
-/// The casGSB namespace.
-/// </summary>
 namespace casGSB
 {
-    /// <summary>
-    /// Class DateGsb.
-    /// </summary>
+    
     class DateGsb
     {
         /// <summary>
@@ -54,11 +49,6 @@ namespace casGSB
             return getMoisPrecedent (DateTime.Today);
            
         }
-        /**
-         * 
-         * @param DateTime tme
-         * @return mois
-         */
         /// <summary>
         /// Gets the mois precedent.
         /// Cette fonction est une surcharge de la fonction getMoisPrecedent()

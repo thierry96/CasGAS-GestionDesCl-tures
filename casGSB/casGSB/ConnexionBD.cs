@@ -19,7 +19,7 @@ namespace casGSB
         /// </summary>
         public void initConnexion()
         {
-            String connexionString = "SERVER=127.0.0.1;DATABASE=gsb;UID=root; PASSWORD=";
+            String connexionString = "SERVER=localhost;DATABASE=kephrem0_gsb;UID=kephrem0; PASSWORD=bahena2013";
             this.connexion = new MySqlConnection(connexionString);
         }
 

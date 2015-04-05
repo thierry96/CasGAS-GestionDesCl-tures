@@ -15,10 +15,10 @@ C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\bi
 C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\bin\Debug\MySql.Web.dll
 C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\bin\Debug\nunit.framework.dll
 C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\bin\Debug\nunit.framework.xml
-C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\obj\Debug\casGSB.Form1.resources
 C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\obj\Debug\casGSB.Properties.Resources.resources
 C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\obj\Debug\casGSB.csproj.GenerateResource.Cache
 C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\obj\Debug\casGSB.exe
 C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\obj\Debug\casGSB.pdb
 C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\bin\Debug\casGSB.XML
 C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\obj\Debug\casGSB.csprojResolveAssemblyReference.cache
+C:\Users\XXXX\Downloads\Documents\cour\2nd Année\ppe\mission 4\casGSB\casGSB\obj\Debug\casGSB.gsb.resources

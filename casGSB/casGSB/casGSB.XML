@@ -32,11 +32,6 @@
             <param name="req">Contiendra la requête sql qui sera utilisé.</param>
             <returns>MySqlDataReader.</returns>
         </member>
-        <member name="T:casGSB.DateGsb">
-            <summary>
-            Class DateGsb.
-            </summary>
-        </member>
         <member name="M:casGSB.DateGsb.opDate(System.DateTime,System.Int32)">
             <summary>
             Cette fonction permet de faire des opérations sur la date passée en paramètre
@@ -55,9 +50,6 @@
             <returns>String.</returns>
         </member>
         <member name="M:casGSB.DateGsb.getMoisPrecedent(System.DateTime)">
-            
-            @param DateTime tme
-            @return mois
             <summary>
             Gets the mois precedent.
             Cette fonction est une surcharge de la fonction getMoisPrecedent()
@@ -113,18 +105,42 @@
             <param name="tme">The tme.</param>
             <returns>Boolean.</returns>
         </member>
-        <member name="F:casGSB.Form1.components">
+        <member name="T:casGSB.gsb">
+            <summary>
+            Class gsb.
+            </summary>
+        </member>
+        <member name="M:casGSB.gsb.#ctor">
+            <summary>
+            constructeur de la classe gsb
+            </summary>
+        </member>
+        <member name="M:casGSB.gsb.gsb_Load(System.Object,System.EventArgs)">
+            <summary>
+            Handles the Load event of the gsb control.
+            </summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs"/> instance containing the event data.</param>
+        </member>
+        <member name="M:casGSB.gsb.timAct_Tick(System.Object,System.EventArgs)">
+            <summary>
+            Handles the Tick event of the timAction control.
+            </summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs"/> instance containing the event data.</param>
+        </member>
+        <member name="F:casGSB.gsb.components">
             <summary>
             Variable nécessaire au concepteur.
             </summary>
         </member>
-        <member name="M:casGSB.Form1.Dispose(System.Boolean)">
+        <member name="M:casGSB.gsb.Dispose(System.Boolean)">
             <summary>
             Nettoyage des ressources utilisées.
             </summary>
             <param name="disposing">true si les ressources managées doivent être supprimées ; sinon, false.</param>
         </member>
-        <member name="M:casGSB.Form1.InitializeComponent">
+        <member name="M:casGSB.gsb.InitializeComponent">
             <summary>
             Méthode requise pour la prise en charge du concepteur - ne modifiez pas
             le contenu de cette méthode avec l'éditeur de code.
