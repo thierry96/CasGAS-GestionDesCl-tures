@@ -33,8 +33,8 @@ namespace casGSB
         }
 
         /// <summary>
-        /// Détermine l'action sur l'événement tick du timer.
-        /// Le système se connecte à la base de données. Ensuite effectue une vérification pour savoir si la date actuelle est comprise
+        /// Méthode déterminant l'action à exécuter sur l'événement tick du timer.
+        /// Le système se connecte à la base de données. Ensuite effectue une vérification pour savoir si le jour de la date actuelle est comprise
         /// entre le 1 et le 10 du mois ou entre le 20 et le 31 du mois.
         /// </summary>
         /// <param name="sender">The source of the event.</param>

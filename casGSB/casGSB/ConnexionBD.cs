@@ -9,9 +9,9 @@ using System.Data.SqlClient;
 namespace casGSB
 {
     /// <summary>
-    /// Class ConnexionBD.
+    /// Class ConnexionBD. 
     /// </summary>
-    class ConnexionBD
+    class ConnexionBD 
     {
         private MySqlConnection connexion;
         /// <summary>
@@ -19,7 +19,7 @@ namespace casGSB
         /// </summary>
         public void initConnexion()
         {
-            String connexionString = "SERVER=localhost;DATABASE=kephrem0_gsb;UID=kephrem0; PASSWORD=bahena2013";
+            String connexionString = "SERVER=localhost; DATABASE=gsb; UID=root; PASSWORD=";
             this.connexion = new MySqlConnection(connexionString);
         }
 
