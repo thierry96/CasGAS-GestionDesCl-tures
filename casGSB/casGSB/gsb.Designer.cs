@@ -52,8 +52,6 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.Timer timAction;
         private System.Windows.Forms.Timer timAct;
     }
 }
