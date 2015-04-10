@@ -20,7 +20,7 @@ using System.Threading.Tasks;
 namespace casGSB
 {
     
-    class DateGsb
+    abstract class DateGsb
     {
         /// <summary>
         /// Cette fonction permet de faire des opérations sur la date passée en paramètre
